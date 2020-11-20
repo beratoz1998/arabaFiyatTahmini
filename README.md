@@ -1,1 +1,3 @@
 # arabaFiyatTahmini
+# Python
+# TensorFlow
